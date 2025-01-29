@@ -1,9 +1,17 @@
-# 💫 About Me:
-🔭 I’m currently building full-stack applications with AI integration while upskilling through Coursera to deepen my understanding of React. My goal is to master modern front-end development and create intuitive, seamless user interfaces.
-👯 I’m looking to collaborate on innovative projects that blend technology with social impact, particularly those leveraging AI for enhanced user experiences.
-🤝 I’m looking for help with mastering React and advanced AI techniques like NLP and machine learning.
-🌱 I’m currently learning React and exploring advanced AI tools to develop smarter, more user-friendly applications.
-⚡ Fun fact: I was selected from over 21,000 applicants to join Project Y as one of the first 35 founding members, training as a Full Stack Developer specializing in AI.
+# 
+💫 <b>About Me:</b><br>  
+🔭 I’m currently building full-stack applications with AI integration while upskilling through Coursera to deepen my understanding of React.<br>  
+My goal is to master modern front-end development and create intuitive, seamless user interfaces.<br><br>  
+
+👯 I’m looking to collaborate on innovative projects that blend technology with social impact,<br>  
+particularly those leveraging AI for enhanced user experiences.<br><br>  
+
+🤝 I’m looking for help with mastering React and advanced AI techniques like NLP and machine learning.<br><br>  
+
+🌱 I’m currently learning React and exploring advanced AI tools to develop smarter, more user-friendly applications.<br><br>  
+
+⚡ <b>Fun fact:</b> I was selected from over 21,000 applicants to join Project Y as one of the first 35 founding members,<br>  
+training as a Full Stack Developer specializing in AI.
 
 
 ## 🌐 Socials:
